@@ -23,5 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanumudgal&show_icons=true&locale=en&layout=compact" alt="shanumudgal" /></p>
 
-![snake gif](https://github.com/ShanuMudgal/ShanuMudgal/blob/output/github-snake.svg)
+<img src="https://raw.githubusercontent.com/ShanuMudgal/ShanuMudgal/output/snake.svg" alt="Snake animation" />
+
+###
 
